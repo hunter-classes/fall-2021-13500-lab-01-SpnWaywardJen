@@ -1,9 +1,11 @@
+/*
+Name: Jennifer Baranyai
 Course: CSCI-135
 Instructor: Tong Yi and Mike Zamansky
 Assignment: Lab 1B
 
 A program that asks the user to input three integer numbers and 
-prints out the smallest of the three.
+prints out the smallest of the three
 */
 
 #include <iostream>
