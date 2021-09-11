@@ -1,5 +1,8 @@
 /*
+<<<<<<< HEAD
 Name: Jennifer Baranyai
+=======
+>>>>>>> 9c0ee7f0af722907549c4fabdd89ed7c4b3e199e
 Course: CSCI-135
 Instructor: Tong Yi and Mike Zamansky
 Assignment: Lab 1B
